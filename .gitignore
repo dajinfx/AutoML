@@ -1,0 +1,14 @@
+# 忽略模型文件
+*.pkl
+
+# 忽略日志文件
+*.log
+
+# 忽略图片
+*.png
+
+# 忽略 Streamlit 配置文件夹
+.streamlit/
+
+# 忽略以 "source" 开头的 CSV 文件
+source*.csv

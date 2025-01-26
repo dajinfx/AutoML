@@ -73,6 +73,10 @@ st.markdown(
     .stDeployButton {
             visibility: hidden;
         }
+    .stAppToolbar{
+            visibility: hidden;
+        }
+        
     </style>
     """, unsafe_allow_html=True    
 )
