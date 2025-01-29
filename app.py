@@ -60,7 +60,7 @@ def main(app_title='GPT Bot', model_name='gpt-4o-mini'):
     # Side bar
     setup_sidebar()
     
-    # 챗봇 가져오기 chatbot
+    # 챗봇 가져오기  chatbot
     chatbot = ChatBot(app_title, model_name)
     chatbot.run()
 
